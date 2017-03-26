@@ -1,0 +1,5 @@
+E:\Felson\JavaScript\Api\mg.models\bin\Debug\mg.models.dll
+E:\Felson\JavaScript\Api\mg.models\bin\Debug\mg.models.pdb
+E:\Felson\JavaScript\Api\mg.models\obj\Debug\mg.models.csprojResolveAssemblyReference.cache
+E:\Felson\JavaScript\Api\mg.models\obj\Debug\mg.models.dll
+E:\Felson\JavaScript\Api\mg.models\obj\Debug\mg.models.pdb
